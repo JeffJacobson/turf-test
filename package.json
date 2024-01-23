@@ -1,0 +1,21 @@
+{
+  "name": "turf-test",
+  "private": true,
+  "type": "module",
+  "description": "Test of Turf library",
+  "author": "Jeff Jacobson",
+  "license": "Unlicense",
+  "dependencies": {
+    "@turf/turf": "^7.0.0-alpha.111"
+  },
+  "devDependencies": {
+    "@tsconfig/node-lts": "^20.1.1",
+    "@tsconfig/strictest": "^2.0.2",
+    "@types/geojson": "^7946.0.13",
+    "@typescript-eslint/eslint-plugin": "^6.19.1",
+    "@typescript-eslint/parser": "^6.19.1",
+    "eslint": "^8.56.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
